@@ -8,7 +8,7 @@ using namespace Rcpp ;
 using namespace arma ;
 using namespace std  ;
 
-double gamma(double x);
+/*double gamma(double x); */
 
 double lgamma(double x);
 

@@ -1,10 +1,10 @@
 #include "utils.h"
 
-double gamma(double x)
+/*double gamma(double x)
 {
   double y = Rf_gammafn(x);
   return y;
-}
+}*/
 
 double lgamma(double x)
 {

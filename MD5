@@ -1,4 +1,4 @@
-ef25f3000c5db96556f19d2a086bdd41 *DESCRIPTION
+89047da397c915bacb07d261ce49def4 *DESCRIPTION
 c0b219166fed468c36e095bbdf768d5c *NAMESPACE
 0bd4c6e0488266fe4ccc30125308197e *R/FunLDA.R
 b5d429f3bd5f5c95fa58bda9b7a64454 *R/RcppExports.R
@@ -18,5 +18,5 @@ f786b9357d4afaf6e500db982881aa42 *man/tissuenew.Rd
 33e80dc519fe3bbc4a571e252ea0d23a *src/RcppExports.cpp
 695a279cd82d411d2cf09a00d458a346 *src/ebmme_cpp_mine_binned2.cpp
 e0669d61e598b7ee6778834b65bd2da7 *src/packagename_init.c
-6c4589ed2dfa308d9382601c2c04244d *src/utils.cpp
-a612da8cd6d0799816296517d2888c14 *src/utils.h
+e708a9d5c102447a84b6c7f34c800562 *src/utils.cpp
+19267b9e8af7f4b5e4c10170a1027df6 *src/utils.h
